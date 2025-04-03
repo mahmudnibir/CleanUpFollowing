@@ -28,7 +28,7 @@
 
 ## Overview
 
-<img src="image.png" alt="project image" width="300">
+<img src="image.png" alt="project image" width="600">
 
 
 This Python script automates the process of unfollowing users on GitHub. It uses the GitHub API to interact with your account, fetch the last 200 users (or a specified limit)  you are following, and unfollow them one by one. The script is designed to help you quickly manage your following list on GitHub.
